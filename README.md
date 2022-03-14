@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BeliMuga
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning how to make crypto trading bots
 - 📫 You can find me on LinkedIn @Belinda Beethuizen
 
 <!---
